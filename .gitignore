@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# idea
+.idea
+
+# folder
+Course/
+Course/Reco_system
+**/data
+data/**
+/data/
