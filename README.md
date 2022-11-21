@@ -1,5 +1,5 @@
 # OTUS-Machine-Learning_Professional
-### This repo consist off home tasks and final task "Recognize anomaly taffic with ml classick methods"
+### This repo consist off final task "Recognize anomaly taffic with ml classick methods"
 
 <ol>
   <li>BaselineModelRev2.ipynb -  final task "Recognize anomaly taffic with ml classick methods"</li>
